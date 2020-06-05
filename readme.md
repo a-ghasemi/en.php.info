@@ -1,6 +1,6 @@
 # The Modern PHP Tutorial
 
-This repository hosts the English content of the Modern PHP Tutorial, many thanks for great idea of [javascript.info](https://javascript.info). We create a website for this content as soon as possible.
+This repository hosts the English content of the Modern PHP Tutorial, many thanks for great idea of [javascript.info](https://javascript.info). We will create a website for this content as soon as possible.
 
 ## Translations
 
