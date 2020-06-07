@@ -39,6 +39,10 @@ Each of these files starts from the `# Main header`.
 
 It's very easy to add something new.
 
+## Thanks
+
+As I mentioned before, many thanks for great idea and open-source details from "Ilya Kantor" @iliakan, and his [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) and [javascript-tutorial/server](https://github.com/javascript-tutorial/server)
+
 ---
 ♥  
 Armin Ghasemi @a-ghasemi
