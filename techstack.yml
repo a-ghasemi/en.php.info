@@ -1,0 +1,20 @@
+repo_name: a-ghasemi/en.php.info
+report_id: a7a9445d4c83b980d478fb014288926d
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-29T13:59:44+00:00'
+requested_by: a-ghasemi
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/a-ghasemi/en.php.info
+  detection_source: Repo Metadata
